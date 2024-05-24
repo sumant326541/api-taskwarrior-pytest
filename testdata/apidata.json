@@ -1,0 +1,6 @@
+{
+    "base_url": "https://fakestoreapi.com",
+    "products": "products",
+    "categories": "products/categories",
+    "category": "products/category"
+}
